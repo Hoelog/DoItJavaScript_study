@@ -1,1 +1,1 @@
-# DoIt_JavaScript_study
+# DoIt_JavaScript_Study
